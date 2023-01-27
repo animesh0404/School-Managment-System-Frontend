@@ -1,4 +1,4 @@
-# SchoolManagmentSystemFrontend
+# School Managment System Frontend
 
 ## Development server
 
